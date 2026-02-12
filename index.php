@@ -7,5 +7,5 @@
     <label for="harga"> Harga :</label>
     <input type="number" id="harga" name="harga">
     <br><br>
-    <button type="submit">Simpan</button>
+    <button type="submit">Simpan</button> 
 </form>
